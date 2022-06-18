@@ -11,7 +11,7 @@ setuptools.setup(
     description="Transformer base text detection",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pbcquoc/vietocr",
+    url="https://github.com/tranduchuy682/OCR-code",
     packages=setuptools.find_packages(),
     install_requires=[
         'einops==0.2.0',
